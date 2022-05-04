@@ -1,10 +1,14 @@
-### OTUS project
+### OTUS project by TeamMember
 First edit
 
 Next edit in develop branch
 
 #### List
 
-* First row
-* Second row
-* Third row
+* First row (off)
+* Second row (on)
+* Third row (never)
+
+## Todo list
+* todo 1
+* todo 2
