@@ -1,4 +1,5 @@
-### OTUS project by Ruslan
+### OTUS project by TeamMember&Ruslan
+
 First edit
 
 Next edit in develop branch
@@ -10,3 +11,7 @@ Next edit in develop branch
 * Third row
 
 ## Options
+
+## Todo list
+* todo 1
+* todo 2
