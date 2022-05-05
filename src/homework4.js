@@ -22,8 +22,7 @@ export function Kolobok(name)  {
 export function NewYear(name)  {
     let result = ''
     if (name === 'Дед Мороз' || name === 'Снегурочка') {
-        result = name + '!'
-        result = result.repeat(3)
+        result = `${name}! ${name}! ${name}!`
     } else {
         throw new Error('Unknown name')
     }
